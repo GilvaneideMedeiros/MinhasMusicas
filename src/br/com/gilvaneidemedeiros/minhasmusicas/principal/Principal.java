@@ -19,6 +19,7 @@ public class Principal {
         }
 
         PodCast meuPodcast = new PodCast();
+        System.out.println("\n");
         meuPodcast.setTitulo("BolhaDev");
         meuPodcast.setApresentador(" Marcus Mendes");
 
